@@ -51,7 +51,7 @@ This is where you add cars to be listed via the categories listed in the dealers
 ## CAR_VIEW
 UI info for every car in the game. Doesn't have to be accurate to a car's actual data ironically (aside from the required IDs). In vanilla GT6 and prior games, Polyphony used this file to hide car specs or straight up lie about car specs. A lot of concept cars and even some production cars had their specs hidden from the player for whatever reason. And in terms of lying about specs, the most famous example is JDM cars made before 2004 being limited to 276HP unofficially through the famous "Gentlemen's Agreement" in an effort to most likely not piss off Japanese car companies.
 
-# CATALYST
+## CATALYST
 
 Sports catalytic converter part table. In GT6 and all other games, there's only the single upgrade, so the table is rather simple. Since it's the first power upgrade table used in GT6, it's a great introduction to the columns you'll come across.
 
